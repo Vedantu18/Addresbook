@@ -1,2 +1,2 @@
-# C Project : Address_Book_Project
+# C Project : Address_Book
 Author : Vedant Ajay Shivsharan
